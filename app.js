@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
   <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
   <script src="htmx.js"></script>
  
-  <title>Document</title>
+  <title>HTMX</title>
 </head>
 <body>
   <div class="min-h-screen bg-gradient-to-r from-fuchsia-600 to-rose-600 text-white flex items-center justify-center">
